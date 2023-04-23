@@ -1,0 +1,13 @@
+#div1 {
+    background-color: gray;
+    color: whitesmoke;
+    font-family: cursive;
+    font-size: large;
+}
+body {
+    background-color: lightgray;
+    font-family: 'Pacifico', cursive;
+}
+button {
+    margin-top: 20px;
+}
